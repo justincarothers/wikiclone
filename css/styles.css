@@ -11,10 +11,27 @@
 }
 
 .col-green{
-  border: solid 2px darkgreen;
+  border: solid 1px darkgreen;
   background-color: lightgreen;
+  min-height: 650px;
+  margin: 6.66;
 }
 
 .imgright{
   float:right;
+}
+
+.col-md-7{}
+
+.left{
+  float: left;
+  text-align: center;
+}
+
+.left p{
+  font-size: 12pt;
+}
+
+.left h1{
+font-size: 14pt;
 }
